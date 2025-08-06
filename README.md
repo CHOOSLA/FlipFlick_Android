@@ -1,3 +1,3 @@
 # 볼래말래[FlipFlick]
 ## ScreenShots
-![screenshot1.png](docs/images/screenshot1.png)
+<img scr="docs/images/screenshot1.png" alt="screenshot1" width="300"/>
